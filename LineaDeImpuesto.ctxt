@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=LineaDeImpuesto
+comment0.text=\n\ \ class\ LineaDeImpuesto\ \ \n\ \n\ @author\ \ \n\ @version\ \ \n
+comment1.params=
+comment1.target=LineaDeImpuesto()
+comment1.text=\n\ Constructor\ de\ la\ clase\ LineaDeImpuesto\n
+comment2.params=
+comment2.target=void\ metodo()
+comment2.text=\n\ \ \n
+numComments=3

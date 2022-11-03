@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=LineaDePresupuesto
+comment1.params=
+comment1.target=LineaDePresupuesto()
+comment10.params=
+comment10.target=double\ getImporte()
+comment11.params=otraLineaDePresupuesto
+comment11.target=boolean\ equals(LineaDePresupuesto)
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=producto\ cantidad
+comment2.target=LineaDePresupuesto(Producto,\ int)
+comment3.params=
+comment3.target=Producto\ getProducto()
+comment4.params=producto
+comment4.target=void\ setProducto(Producto)
+comment5.params=
+comment5.target=Descuento\ getDescuento()
+comment6.params=descuento
+comment6.target=void\ setDescuento(Descuento)
+comment7.params=
+comment7.target=int\ getCantidad()
+comment8.params=cantidad
+comment8.target=void\ setCantidad(int)
+comment9.params=producto\ cantidad
+comment9.target=void\ setProductoCantidad(Producto,\ int)
+numComments=13

@@ -1,0 +1,72 @@
+YogaMat
+C/Milagro s/n
+Pamplona, 31015, Navarra
+                                                                                        UDC Txantrea
+                                                                                C. de Imárcoain, s/n
+                                                                            Pamplona, 31015, Navarra
+
+Presupuesto # S00001
+Fecha del presupuesto:         Vencimiento:
+2022-11-03                     15 días
+
+DESCRIPCIÓN                    CANTIDAD     PRECIO UNITARIO       DESC. %     IMPUESTOS      IMPORTE
+Esterilla antideslizante negra       30               40.00       20% dto.    IVA 21%         960.00
+Bloque de Yoga gris                  60                5.99       30% dto.    IVA 21%         251.58
+Libro "Ingeniería Interior"           2               18.00       10% dto.    IVA 4%           32.40
+
+                                                               Importe libre de impuestos    1243.98
+                                                               IVA 21%                        254.43
+                                                               IVA 4%                           1.30
+                                                               TOTAL                         1499.71
+
+YogaMat
+C/Milagro s/n
+Pamplona, 31015, Navarra
+                                                                      Polideportivo Municipal Ezkaba
+                                                                      C. San Cristóbal s/n, Orvina 2
+
+Presupuesto # S00002
+Fecha del presupuesto:         Vencimiento:
+2022-11-03                     15 días
+
+DESCRIPCIÓN                    CANTIDAD     PRECIO UNITARIO       DESC. %     IMPUESTOS      IMPORTE
+Esterilla antideslizante negra       40               40.00       20% dto.    IVA 21%        1280.00
+Bloque de Yoga gris                  80                5.99       20% dto.    IVA 21%         383.36
+
+                                                               Importe libre de impuestos    1663.36
+                                                               IVA 21%                        349.31
+                                                               TOTAL                         2012.67
+
+YogaMat
+C/Milagro s/n
+Pamplona, 31015, Navarra
+                                                                                           TxFitness
+                                                                                  Av. de Villava 51B
+                                                                            Pamplona, 31015, Navarra
+
+Presupuesto # S00003
+Fecha del presupuesto:         Vencimiento:
+2022-11-03                     15 días
+
+DESCRIPCIÓN                    CANTIDAD     PRECIO UNITARIO       DESC. %     IMPUESTOS      IMPORTE
+Esterilla antideslizante negra       60               40.00       30% dto.    IVA 21%        1680.00
+
+                                                               Importe libre de impuestos    1680.00
+                                                               IVA 21%                        378.00
+                                                               TOTAL                         2058.00
+
+YogaMat
+C/Milagro s/n
+Pamplona, 31015, Navarra
+                                                                                         Juan Garcia
+
+Presupuesto # S00004
+Fecha del presupuesto:         Vencimiento:
+2022-11-03                     15 días
+
+DESCRIPCIÓN                    CANTIDAD     PRECIO UNITARIO       DESC. %     IMPUESTOS      IMPORTE
+Esterilla antideslizante negra       30               40.00                   IVA 21%        1200.00
+
+                                                               Importe libre de impuestos    1200.00
+                                                               IVA 21%                        252.00
+                                                               TOTAL                         1452.00
