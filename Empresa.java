@@ -7,15 +7,27 @@ public class Empresa
     private String direccion2;
 
     public Empresa() {
-        // TODO: Impuesto (constructor1)
+        // DONE: Impuesto (constructor1)
+        nombre = "";
+        nif = "";
+        email = "";
+        direccion1 = "";
+        direccion2 = "";
     }
 
     public Empresa(String nombre) {
-        // TODO: Impuesto (constructor2)
+        // DONE: Impuesto (constructor2)
+        this();
+        this.nombre = nombre;
     }
 
     public Empresa(String nombre, String nif, String email, String direccion1, String direccion2) {
-        // TODO: Impuesto (constructor3)
+        // DONE: Impuesto (constructor3)
+        this.nombre = nombre;
+        this.nif = nif;
+        this.email = email;
+        this.direccion1 = direccion1;
+        this.direccion2 = direccion2;
     }
 
     public String getNombre() {

@@ -14,7 +14,25 @@ public class Impuesto
     private int porcentajeValor;
 
     public Impuesto(String id) {
-        // TODO: Impuesto (constructor)
+        // DONE: Impuesto (constructor)
+        //this.id = id;//o dentro de cada case
+        switch (id){
+            case ID_IVA04:
+                this.id = ID_IVA04;
+                this.nombre = NOMBRE_IVA04;
+                this.porcentajeValor = VALOR_IVA04;
+                break;
+            case ID_IVA10:
+                this.id = ID_IVA10;
+                this.nombre = NOMBRE_IVA10;
+                this.porcentajeValor = VALOR_IVA10;
+                break;
+            case ID_IVA21:
+                this.id = ID_IVA21;
+                this.nombre = NOMBRE_IVA21;
+                this.porcentajeValor = VALOR_IVA21;
+                break;
+        }
     }
 
     public String getId() {

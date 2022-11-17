@@ -37,22 +37,27 @@ public class LineaDePresupuesto
     }
 
     public void agregarCantidad(int cantidad) {
-        //TODO: agregarCantidad
+        //DONE: agregarCantidad
+        this.cantidad += cantidad;
     }
 
     public double getImporte() {
-        //TODO: getImporte
-        return 0;
+        //DONE: getImporte
+        if (descuento != null){
+            return Math.round(100 * producto.getPrecioVenta() * cantidad * (100 - descuento.getPorcentageValor()) / 100) / 100.0;
+        } else {
+            return Math.round(100 * producto.getPrecioVenta() * cantidad) / 100.0;
+        }
     }
 
     public double getImporteImpuestos() {
-        //TODO: getImporteImpuestos
-        return 0;
+        //DONE: getImporteImpuestos
+        return getImporte() * producto.getPorcentajeImpuesto() / 100;
     }
 
     public boolean equals(LineaDePresupuesto otraLineaDePresupuesto){
-        //TODO: equals
-        return false;
+        //DONE: equals
+        return this.producto.equals(otraLineaDePresupuesto.producto);
     }
 
 }

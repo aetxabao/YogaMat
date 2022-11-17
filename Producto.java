@@ -69,7 +69,9 @@ public class Producto
     }
 
     public void setTarifa(Tarifa tarifa) {
-        //TODO: setTarifa
+        //DONE: setTarifa
+        this.tarifa = tarifa;
+        this.tarifa.setProducto(this);
     }
 
     public Impuesto getImpuesto() {
@@ -81,18 +83,21 @@ public class Producto
     }
 
     public double getPrecioVenta() {
-        //TODO: getPrecioVenta
-        return 0;
+        //DONE: getPrecioVenta
+        if (tarifa == null) return 0.0;
+        return Math.round(tarifa.getPrecioVenta() * 100.0) / 100.0;
     }
 
     public int getPorcentajeImpuesto() {
-        //TODO: getPorcentajeImpuesto
-        return 0;
+        //DONE: getPorcentajeImpuesto
+        if (impuesto == null) return 0;
+        return impuesto.getPorcentajeValor();
     }
 
     public boolean equals(Producto otroProducto) {
-        //TODO: equals
-        return false;
+        //DONE: equals
+        if (otroProducto == null) return false;
+        return this.id.equalsIgnoreCase(otroProducto.id);
     }
 
 }

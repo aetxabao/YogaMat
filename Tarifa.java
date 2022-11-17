@@ -50,13 +50,13 @@ public class Tarifa
     }
 
     public double getPrecioVenta() {
-        //TODO: getPrecioVenta
-        return 0;
+        //DONE: getPrecioVenta
+        return producto.getPrecioCoste() * (100 + porcentajeMargenComercial) / 100;
     }
 
     public Tarifa clone() {
-        //TODO: clone
-        return null;
+        //DONE: clone
+        return new Tarifa(this.id, this.nombre, this.porcentajeMargenComercial);
     }
 
 }
